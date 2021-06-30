@@ -30,9 +30,9 @@ team_t team = {
     /* First member's email address */
     "bovik@cs.cmu.edu",
     /* Second member's full name (leave blank if none) */
-    "666",
+    "nicole",
     /* Second member's email address (leave blank if none) */
-    "777@999.cn"};
+    "119010114@link.cuhk.edu.cn"};
 
 //CONSTANTS
 #define SPLIT                                                        /* Split or not in realloc */
